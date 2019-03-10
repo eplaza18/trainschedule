@@ -1,0 +1,10 @@
+body {
+    background-image: url(../images/thomas.jpg);
+    background-size: 100%;
+  }
+
+  .jumbotron{
+    background-image: url(../images/thomas-the-train-1.jpg);
+    background-size: 100%;
+    
+  }
